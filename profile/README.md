@@ -13,9 +13,16 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## zMarket
 
+- [GitHub](https://github.com/zmarket)
 - [Packagist](https://packagist.org/packages/zmarket)  
   Composer package repository.
 - [Fedora COPR](https://copr.fedorainfracloud.org/coprs/zmarket/)  
   Copr ("Community projects") is a service that builds open-source projects and creates RPM repositories.
 - [openSUSE OBS](https://build.opensuse.org/project/show/home:zmarket)  
   The Open Build Service is an openSUSE project.
+
+## Mirrors
+
+- [GitLab](https://gitlab.com/zbox-mirror)
+- [Codeberg](https://codeberg.org/zbox-mirror)
+- [Gitea](https://gitea.com/zbox-mirror)
