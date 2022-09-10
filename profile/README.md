@@ -22,7 +22,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
   The Open Build Service is an openSUSE project.
 
 ## Mirrors
-
+- [GitHub](https://github.com/zbox-mirror)
 - [GitLab](https://gitlab.com/zbox-mirror)  
   Private.
 - [Codeberg](https://codeberg.org/zbox-mirror)
