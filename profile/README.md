@@ -23,6 +23,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Mirrors
 
-- [GitLab](https://gitlab.com/zbox-mirror)
+- [GitLab](https://gitlab.com/zbox-mirror)  
+  Private.
 - [Codeberg](https://codeberg.org/zbox-mirror)
 - [Gitea](https://gitea.com/zbox-mirror)
