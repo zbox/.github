@@ -11,12 +11,14 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
-## zMarket
+## Resources
 
-zMarket is intended for delivery of packages and applications on various systems.
-
-- [GitHub](https://github.com/zmarket)  
-  Main storage. From this storage, other platforms pick up packages.
+- [**zMarket**](https://github.com/zmarket)  
+  zMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
+- [GHA Store](https://github.com/ghastore)  
+  GitHub Actions store.
+- [GPG Store](https://github.com/gpgstore)  
+  GPG public keys for Linux repositories.
 
 ## Mirrors
 - [GitHub](https://github.com/zbox-mirror)
