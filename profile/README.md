@@ -11,15 +11,12 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
-## zMarket
+### zMarket
 
-- [GitHub](https://github.com/zmarket)
-- [Packagist](https://packagist.org/packages/zmarket)  
-  Composer package repository.
-- [Fedora COPR](https://copr.fedorainfracloud.org/coprs/zmarket/)  
-  Copr ("Community projects") is a service that builds open-source projects and creates RPM repositories.
-- [openSUSE OBS](https://build.opensuse.org/project/show/home:zmarket)  
-  The Open Build Service is an openSUSE project.
+zMarket is intended for delivery of packages and applications on various systems.
+
+- [GitHub](https://github.com/zmarket)  
+  Main storage. From this storage, other platforms pick up packages.
 
 ## Mirrors
 - [GitHub](https://github.com/zbox-mirror)
