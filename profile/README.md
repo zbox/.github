@@ -13,11 +13,12 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Topics
 
-- [Drupal](https://github.com/search?q=topic:drupal+org:zbox&type=Repositories)
-- [Flarum](https://github.com/search?q=topic:flarum+org:zbox&type=Repositories)
-- [Hugo](https://github.com/search?q=topic:hugo+org:zbox&type=Repositories)
-- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
-- [XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
+- [CMF / Drupal](https://github.com/search?q=topic:drupal+org:zbox&type=Repositories)
+- [CMF / Flarum](https://github.com/search?q=topic:flarum+org:zbox&type=Repositories)
+- [CMF / Hugo](https://github.com/search?q=topic:hugo+org:zbox&type=Repositories)
+- [CMF / MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
+- [CMF / XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
+- [Linux / Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
 
 ## Resources
 
