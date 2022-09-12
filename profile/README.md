@@ -1,4 +1,6 @@
-[Features](#features) / [Topics]() / [Resources]() / [Mirrors]()
+[Features](#features) / [Topics](#topics) / [Resources](#resources) / [Mirrors](#mirrors)
+
+---
 
 ## Hi there 👋
 
