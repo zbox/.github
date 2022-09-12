@@ -22,8 +22,9 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [Shell](https://github.com/search?q=topic:shell+org:zbox&type=Repositories)
   - [Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
   - [PowerShell](https://github.com/search?q=topic:pwsh+org:zbox&type=Repositories)
-- [Linux](https://github.com/search?q=topic:linux+org:zbox&type=Repositories)
+- [OS Linux](https://github.com/search?q=topic:linux+org:zbox&type=Repositories)
   - [Debian](https://github.com/search?q=topic:debian+org:zbox&type=Repositories)
+- [OS Windows](https://github.com/search?q=topic:windows+org:zbox&type=Repositories)
 
 ## Resources
 
