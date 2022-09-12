@@ -19,6 +19,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [CMF / MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
 - [CMF / XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
 - [Linux / Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
+- [Windows / PowerShell](https://github.com/search?q=topic:pwsh+org:zbox&type=Repositories)
 
 ## Resources
 
