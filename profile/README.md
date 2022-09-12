@@ -10,12 +10,12 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 **zBox** is our global knowledge and development storage. Our external distributed storage is [**zMarket**](https://github.com/zmarket). It is registered on external services and is intended for delivery of packages and applications.
 
+<img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.min.svg" width="100%" alt="OctoCat" />
+
 ## Features
 
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
-
-<img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
 ## Topics
 
