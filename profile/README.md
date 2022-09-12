@@ -39,3 +39,6 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [GitHub](https://github.com/zbox-mirror)
 - [GitLab (private)](https://gitlab.com/zbox-mirror)
 - [Codeberg](https://codeberg.org/zbox-mirror)
+
+
+<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01svg" width="100%" alt="OctoCat" />
