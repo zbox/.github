@@ -11,7 +11,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
-<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
+<img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
 
 ## Topics
 
