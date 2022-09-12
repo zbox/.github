@@ -11,6 +11,8 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
+<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
+
 ## Topics
 
 - [CMF](https://github.com/search?q=topic:cmf+org:zbox&type=Repositories)
@@ -39,6 +41,3 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [GitHub](https://github.com/zbox-mirror)
 - [GitLab (private)](https://gitlab.com/zbox-mirror)
 - [Codeberg](https://codeberg.org/zbox-mirror)
-
-
-<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
