@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-**z17 Dev** is a non-profit organization dedicated to research and development of web technologies.
+[**z17 Dev**](https://z17.dev/) is a non-profit organization dedicated to research and development of web technologies.
 
 We are engaged in development of web applications, modules, add-ons. We make localizations for CMF / CMS. We administer servers and workstations, write documentation and useful articles.
 
-**zBox** is our global knowledge and development storage. Our external distributed storage is **zMarket**. It is registered on external services and is intended for delivery of packages and applications.
+**zBox** is our global knowledge and development storage. Our external distributed storage is [**zMarket**](https://github.com/zmarket). It is registered on external services and is intended for delivery of packages and applications.
 
 ## Features
 
