@@ -13,14 +13,17 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Topics
 
-- [CMF / Drupal](https://github.com/search?q=topic:drupal+org:zbox&type=Repositories)
-- [CMF / Flarum](https://github.com/search?q=topic:flarum+org:zbox&type=Repositories)
-- [CMF / Hugo](https://github.com/search?q=topic:hugo+org:zbox&type=Repositories)
-- [CMF / MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
-- [CMF / XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
-- [Shell / Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
-- [Shell / PowerShell](https://github.com/search?q=topic:pwsh+org:zbox&type=Repositories)
-- [OS / Debian](https://github.com/search?q=topic:debian+org:zbox&type=Repositories)
+- [CMF](https://github.com/search?q=topic:cmf+org:zbox&type=Repositories)
+  - [Drupal](https://github.com/search?q=topic:drupal+org:zbox&type=Repositories)
+  - [Flarum](https://github.com/search?q=topic:flarum+org:zbox&type=Repositories)
+  - [Hugo](https://github.com/search?q=topic:hugo+org:zbox&type=Repositories)
+  - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
+  - [XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
+- [Shell](https://github.com/search?q=topic:shell+org:zbox&type=Repositories)
+  - [Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
+  - [PowerShell](https://github.com/search?q=topic:pwsh+org:zbox&type=Repositories)
+- [Linux](https://github.com/search?q=topic:linux+org:zbox&type=Repositories)
+  - [Debian](https://github.com/search?q=topic:debian+org:zbox&type=Repositories)
 
 ## Resources
 
