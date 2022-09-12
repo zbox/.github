@@ -41,4 +41,4 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [Codeberg](https://codeberg.org/zbox-mirror)
 
 
-<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01svg" width="100%" alt="OctoCat" />
+<img align="left" src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
