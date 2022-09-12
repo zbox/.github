@@ -1,4 +1,4 @@
-[Features](#features) / [Topics](#topics) / [Resources](#resources) / [Mirrors](#mirrors)
+[FEATURES](#features) / [TOPICS](#topics) / [RESOURCES](#resources) / [MIRRORS](#mirrors)
 
 ---
 
