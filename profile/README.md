@@ -15,7 +15,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - Development and localization web apps, extensions and visual styles.
 - Development and building packages for GNU/Linux.
 
-<img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.svg" width="100%" alt="OctoCat" />
+<img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
 ## Topics
 
@@ -41,7 +41,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 - [GPG Store](https://github.com/gpgstore)  
   GPG public keys for Linux repositories.
 
-<img src="https://raw.githubusercontent.com/zbox/.github/main/img.02.svg" width="100%" alt="OctoCat" />
+<img src="https://raw.githubusercontent.com/zbox/.github/main/img.02.min.svg" width="100%" alt="OctoCat" />
 
 ## Mirrors
 - [GitHub](https://github.com/zbox-mirror)
