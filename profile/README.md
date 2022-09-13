@@ -25,7 +25,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
   - [Hugo](https://github.com/search?q=topic:hugo+org:zbox&type=Repositories)
   - [MediaWiki](https://github.com/search?q=topic:mediawiki+org:zbox&type=Repositories)
   - [XenForo](https://github.com/search?q=topic:xenforo+org:zbox&type=Repositories)
-- [Language](https://github.com/search?q=topic:shell+org:zbox&type=Repositories)
+- Language
   - [Bash](https://github.com/search?q=topic:bash+org:zbox&type=Repositories)
   - [PHP](https://github.com/search?q=topic:php+org:zbox&type=Repositories)
   - [PowerShell](https://github.com/search?q=topic:pwsh+org:zbox&type=Repositories)
