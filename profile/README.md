@@ -8,7 +8,7 @@
 
 We are engaged in development of web applications, modules, add-ons. We make localizations for CMF / CMS. We administer servers and workstations, write documentation and useful articles.
 
-**zBox** is our global knowledge and development storage. Our external distributed storage is [**zMarket**](https://github.com/zmarket). It is registered on external services and is intended for delivery of packages and applications.
+**ZBox** is our global knowledge and development storage. Our external distributed storage is [**ZMarket**](https://github.com/zmarket). It is registered on external services and is intended for delivery of packages and applications.
 
 <img src="https://raw.githubusercontent.com/zbox/.github/main/img.01.min.svg" width="100%" alt="OctoCat" />
 
@@ -35,8 +35,8 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 
 ## Resources
 
-- [**zMarket**](https://github.com/zmarket)  
-  zMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
+- [**ZMarket**](https://github.com/zmarket)  
+  ZMarket is intended for delivery of packages and applications on various systems. From this storage, other platforms pick up packages.
 - [GHA Store](https://github.com/ghastore)  
   GitHub Actions store.
 - [GPG Store](https://github.com/gpgstore)  
@@ -45,6 +45,7 @@ We are engaged in development of web applications, modules, add-ons. We make loc
 <img src="https://raw.githubusercontent.com/zbox/.github/main/img.02.min.svg" width="100%" alt="OctoCat" />
 
 ## Mirrors
+
 - [GitHub](https://github.com/zbox-mirror)
 - [GitLab](https://gitlab.com/zbox-mirror)
 - [Codeberg](https://codeberg.org/zbox-mirror)
