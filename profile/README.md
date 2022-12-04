@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-[**z17 Dev**](https://z17.dev/) is a non-profit organization dedicated to research and development of web technologies.
+[**v77 Dev**](https://v77.dev/) is a non-profit organization dedicated to research and development of web technologies.
 
 We are engaged in development of web applications, modules, add-ons. We make localizations for CMF / CMS. We administer servers and workstations, write documentation and useful articles.
 
